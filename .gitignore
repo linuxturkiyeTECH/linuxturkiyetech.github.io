@@ -1,8 +1,10 @@
-*.gem
-.bundle
-.ruby-version
-.jekyll-cache
+tmp
+*.rdb
+.env
 .sass-cache
+.DS_Store
 _site
-Gemfile.lock
-node_modules
+.jekyll-cache
+.git
+.vscode
+.obsidian
